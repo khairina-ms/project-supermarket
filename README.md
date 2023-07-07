@@ -1,11 +1,8 @@
 # Project Cashier System Supermarket
----
 Program kasir sederhana dengan menggunakan bahasa pemrograman Python.
 ## Latar Belakang
----
 Kasir adalah perangkat yang biasanya digunakan bisnis untuk menghitung transaksi keuangan. Pembuatan kasir self-service dapat mempermudah bisnis seperti Supermarket dengan memperbolehkan customer langsung memasukkan nama item, jumlah item, dan harga item yang dibeli.
 ## Requirements
----
 ### Functions
 Program memiliki fitur untuk:
 - Membuat ID transaksi
@@ -19,7 +16,6 @@ Program memiliki fitur untuk:
 ### Flowchart
 
 ## Methods Description
----
 Berikut merupakan metode-metode dari kelas Transaksi dari modul program beserta penjelasannya:
 |No| Metode | Penjelasan |
 |---|---|---|

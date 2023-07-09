@@ -22,7 +22,7 @@ Berikut merupakan metode-metode dari kelas Transaksi dari modul program beserta 
 |2| add_item(nama, jumlah, harga): | Memasukkan nama, jumlah, dan harga item ke list pada objek. |
 |3|update_item_name(nama_item, nama_baru)|Mengubah nama item|
 |4|update_item_qty(nama_item, qty_baru)|Mengubah jumlah item|
-|5|update_item_price(nama_item, harga_baru)|Mengubah jumlah item|
+|5|update_item_price(nama_item, harga_baru)|Mengubah harga item|
 |6|delete_item(nama_item)|Menghapus satu item|
 |7|reset_transaction()|Menghapus semua item di keranjang|
 |8|check_order()|Memastikan format input order sudah benar|

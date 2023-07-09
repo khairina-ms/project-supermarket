@@ -84,7 +84,7 @@ class Transaction:
 
     def update_item_price(self, nama_item, harga_baru):
         """
-        Mengubah jumlah item
+        Mengubah harga item
 
         Parameters:
             nama_item(any): Nama dari item yang harganya akan diganti
